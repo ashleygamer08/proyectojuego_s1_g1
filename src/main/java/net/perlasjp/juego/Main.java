@@ -1,8 +1,8 @@
 package net.perlasjp.juego;
-
 public class Main {
-    public static void main(String[] args) {   
-       Juego juego = new Juego();
-       juego.iniciar();
-   }
-} 
+    public static void main(String[] args) {  
+    public Juego juego = new Juego();
+public juego.iniciar();
+    
+    }
+}
